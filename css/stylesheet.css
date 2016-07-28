@@ -1,0 +1,78 @@
+/*backgroound color of body*/
+#backcolor{
+    background-color: #ddfef2;
+}
+
+/*background color of navigation bar*/
+.navbar{
+    background-color: #03d39f;
+}
+
+
+/*title color white*/
+#header1{
+    color: white;
+   
+}
+
+/*menu type color white*/
+#header2{
+    color: white;
+}
+
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+    
+}
+
+#company{
+    color:white;
+}
+
+.jumbotron{
+    /*background-color:#fdfb68;*/
+    background-color:#ffe9a8;
+}
+
+#info{
+    text-align:center;
+}
+
+
+.bike{
+    width:590px;
+    height: 400px;
+    background-image: url('../image/racing4a.jpg');
+    
+   
+}
+
+.change{
+   width:550px;
+    height:400px;
+    background-image: url('../image/finishline11.jpg');
+    color: white;
+    
+  
+}
+
+
+@media only screen and (max-width: 699px){
+    .bike{max-width:400px;
+    max-height:300px;
+
+    }
+    .change{max-width:400px;
+    max-height:400px;}
+}
+
+
+
+/*.img-circle {
+  border-radius: 50%;
+}*/
+  
+  
+  
